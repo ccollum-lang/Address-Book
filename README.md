@@ -4,6 +4,7 @@ This is a basic address book that displays a menu where the user can add a conta
 Step 1) The program reads in the .txt file and parses information to lists of first names, last names, numbers, emails, addresses, social media, and pets.
 
 Step 2) Displays a menu for the user with the options: Add contact, display contact, search by name, delete, save and exit.
+
 **** Add Contact -- asks for first name, last name, phone number, email address, street address, snapchat username, and favorite pet and appends all information given to the .txt file and returns to the menu
 
 **** Display Contact -- displays all contacts in the .txt file to the console and returns to the menu.
