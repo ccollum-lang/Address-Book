@@ -13,3 +13,6 @@ Step 2) Displays a menu for the user with the options: Add contact, display cont
 **** Delete -- asks for the user to input the index number associated with the contact they would like to delete from the address book. When the user inputs a valid number, the program will delete all information associated with the contact from the .txt file and return to the menu.
 
 **** Save and Exit -- will overwrite the current .txt file with the information stored in the lists of the program, thereby adding it to the .txt file for the next time it is used. After the file is updated, the program will exit.
+
+
+// The attacted .txt file has information used for example purposes.
